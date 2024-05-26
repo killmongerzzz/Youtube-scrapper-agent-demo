@@ -1,0 +1,145 @@
+Langflow + DataStax: Better Together
+The past few weeks have been nuts, and we’ve been itching to share some huge
+news with you all… 🥁  Langflow is joining DataStax!
+Rodrigo Nader·Follow
+Published inLangflow
+3 min read·Apr 4, 2024
+Listen Share
+When the two of us first met in person in mid-2022, aside from geeking out over sci-
+fi books, the recurring topic of the night was: "What’s AGI going to look like?" 🤖
+Open in app Sign up Sign in
+Search
+18/05/2024, 21:52 Langﬂow + DataStax: Better Together | by Rodrigo Nader | Langﬂow | Apr, 2024 | Medium
+https://medium.com/logspace/langﬂow-datastax-better-together-1b7462cebc4d 1/12Rodrigo and Gabriel: Langflow brainstorming, day one (yes, we signed that Polaroid!)
+Our passion for deep learning and a shared desire for productivity led us to
+brainstorm for hours, and as we looked into the future, we were convinced that AI
+should be more than a black box. It would require fine-grained control, interactivity,
+and most importantly, safety. We bet on a hybrid approach that incorporated rule-
+based logic on top of agent decisions.
+Initially released as “A User Interface for LangChain,” Langflow came to life as an
+open-source solution for the exploration of LLM applications. It lowered the entry
+barrier by offering a visual framework that enabled users to connect, create, and
+share components that cover everything from Prompt Chaining to RAG and
+Autonomous Agents.
+In just a handful of months, we were already supporting a community of over 10,000
+developers! 😎
+We’ve watched our platform evolve into an intuitive, customizable tool, serving a
+variety of real-world, industry-level use cases. It’s been an unbelievable journey and
+we’re so proud of it.
+18/05/2024, 21:52 Langﬂow + DataStax: Better Together | by Rodrigo Nader | Langﬂow | Apr, 2024 | Medium
+https://medium.com/logspace/langﬂow-datastax-better-together-1b7462cebc4d 2/12Langflow v1.0.0 alpha— Interaction Panel
+Supercharging Langflow ⚡
+A few weeks ago, we started talking with DataStax about a potential partnership.
+From our initial chats, we shared a lot of excitement about what’s possible and how
+the future of AI will unfold. We were clearly on the same page, and DataStax’s track
+record with Apache Cassandra, along with their commitment to the open-source
+community, resonated with us instantly. Before we knew it, we were hopping on a
+flight to San Francisco, getting ready to close a deal.
+We’re researchers, developers, and hackers at heart, and managing the company so
+far has been pretty hectic; we handle everything from coding sessions to budget
+planning. Joining DataStax means we’ll be free to focus 100% of our efforts on
+growing Langflow and sharing our inventive experiments with a broad range of
+researchers, developers, and entrepreneurs out there! And that’s what we love
+doing.
+What’s next? 💡
+More than ever, we need to listen to the community and make sure we’re attending
+to their needs. If there’s a promise we can make, it’s that Langflow will forever be
+open, free, and agnostic!
+In the coming months, our plan is clear: keep striving to make Langflow simpler
+and more intuitive while retaining the amount of control that coding provides. Our
+18/05/2024, 21:52 Langﬂow + DataStax: Better Together | by Rodrigo Nader | Langﬂow | Apr, 2024 | Medium
+https://medium.com/logspace/langﬂow-datastax-better-together-1b7462cebc4d 3/12goal is to establish it as the industry standard for assembling complex, multi-agent
+workflows, making research and development not just better, but more enjoyable.
+We’ll collaborate with DataStax to empower AI enthusiasts and ML hackers like
+ourselves, enabling them to prototype, validate, and quickly turn their bold ideas
+into real, impactful solutions.
+We are beyond excited to see the community embracing Langflow as their go-to AI
+platform and can’t wait to show off the opportunities this collaboration will bring!
+A big thanks to everyone supporting and being part of this community in any way.
+Let’s do this! 🚀
+With excitement and gratitude,
+Rodrigo, Gabriel, and the Langflow team.
+P.S.: Langflow 1.0 alpha was released today! 🎉
+Try it out now! 🌟
+Follow
+Written by Rodrigo Nader
+948 Followers·Editor for Langflow
+More from Rodrigo Nader and Langflow
+18/05/2024, 21:52 Langﬂow + DataStax: Better Together | by Rodrigo Nader | Langﬂow | Apr, 2024 | Medium
+https://medium.com/logspace/langﬂow-datastax-better-together-1b7462cebc4d 4/12Web scraping to extract contact information— Part 1: Mailing Lists
+When you start working with data science and machine learning you notice that there’s a
+important thing you will miss more often than not…
+7 min read·Oct 4, 2018
+in
+Langflow Micro Tutorials — PDF Parser
+Rodrigo Nader
+1.5K 17
+Rodrigo Nader Langflow18/05/2024, 21:52 Langﬂow + DataStax: Better Together | by Rodrigo Nader | Langﬂow | Apr, 2024 | Medium
+https://medium.com/logspace/langﬂow-datastax-better-together-1b7462cebc4d 5/12Welcome back to our Langflow micro tutorials series! We’re continuing with simple Langflow
+examples, showcasing custom component designs.
+2 min read·Sep 13, 2023
+in
+Langflow Micro Tutorials — Transform Chain
+Welcome back to our Langflow micro tutorials series! In this article, we’ll continue exploring
+simple Langflow examples and the design of…
+3 min read·Oct 22, 2023128
+Rodrigo Nader Langflow
+155 118/05/2024, 21:52 Langﬂow + DataStax: Better Together | by Rodrigo Nader | Langﬂow | Apr, 2024 | Medium
+https://medium.com/logspace/langﬂow-datastax-better-together-1b7462cebc4d 6/12See all from Rodrigo Nader
+See all from Langflow
+Recommended from Medium
+in
+Natural Language Processing — Event Extraction
+Extracting events from news articles
+6 min read·May 3, 2019
+Rodrigo Nader Towards Data Science
+1.5K 1118/05/2024, 21:52 Langﬂow + DataStax: Better Together | by Rodrigo Nader | Langﬂow | Apr, 2024 | Medium
+https://medium.com/logspace/langﬂow-datastax-better-together-1b7462cebc4d 7/12in
+6 Best Flowise Alternatives in 2024 to Build AI Agents
+The list of top Flowise alternatives for building AI Agents includes 1. Fabric 2. LangFlow 3.
+Galadon 4…
+5 min read·Dec 7, 2023
+in
+Employee Search With OpenAI, Flowise, and LangChain
+Amit Yadav FabricHQ
+212 1
+John Damask Better Programming18/05/2024, 21:52 Langﬂow + DataStax: Better Together | by Rodrigo Nader | Langﬂow | Apr, 2024 | Medium
+https://medium.com/logspace/langﬂow-datastax-better-together-1b7462cebc4d 8/12Lists
+Staff Picks
+644 stories·977 saves
+Stories to Help You Level-Up at Work
+19 stories·610 saves
+Self-Improvement 101
+20 stories·1839 saves
+Productivity 101
+20 stories·1681 savesIf you read my previous article, you know that I have a Bostonian version of ChatGPT in Slack
+called W’kid Smaah t (“wicked smart”)
+9 min read·Sep 6, 2023
+in
+Tabular Data, RAG, & LLMs: Improve Results Through Data Table
+Prompting
+How to ingest small tabular data when working with LLMs.
+276 6
+Intel Intel Tech
+18/05/2024, 21:52 Langﬂow + DataStax: Better Together | by Rodrigo Nader | Langﬂow | Apr, 2024 | Medium
+https://medium.com/logspace/langﬂow-datastax-better-together-1b7462cebc4d 9/1210 min read·4 days ago
+in
+Building an Observable arXiv RAG Chatbot with LangChain, Chainlit, and
+Literal AI
+A tutorial on building a semantic paper engine using RAG with LangChain, Chainlit copilot
+apps, and Literal AI observability.
+17 min read·4 days ago37
+Tahreem Rasul Towards Data Science
+88018/05/2024, 21:52 Langﬂow + DataStax: Better Together | by Rodrigo Nader | Langﬂow | Apr, 2024 | Medium
+https://medium.com/logspace/langﬂow-datastax-better-together-1b7462cebc4d 10/12in
+Multi-document Agentic RAG using Llama-Index and Mistral
+Introduction
+15 min read·5 days ago
+Who’s making money with GenAI?
+Accenture booked over $600M this quarter ($2.4B annualized) in Generative AI
+Plaban Nayak The AI Forum
+231 3
+Rohan Balkondekar18/05/2024, 21:52 Langﬂow + DataStax: Better Together | by Rodrigo Nader | Langﬂow | Apr, 2024 | Medium
+https://medium.com/logspace/langﬂow-datastax-better-together-1b7462cebc4d 11/12See more recomme ndations4 min read·Mar 27, 2024
+77 218/05/2024, 21:52 Langﬂow + DataStax: Better Together | by Rodrigo Nader | Langﬂow | Apr, 2024 | Medium
+https://medium.com/logspace/langﬂow-datastax-better-together-1b7462cebc4d 12/12
