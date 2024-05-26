@@ -14,8 +14,10 @@ This project demonstrates a powerful tool that parses YouTube videos to retrieve
 
 **Installation**
 **1. Clone the Repository**
+
     git clone https://github.com/killmongerzzz/Youtube-scrapper-agent-demo.git  
     cd Youtube-scrapper-agent-demo
 
 **2.Install Dependencies**
+
     pip install -r requirements.txt
